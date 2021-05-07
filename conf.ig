@@ -20,4 +20,4 @@ res_1stdp=RcU/
 res_2stdp=C:/Users/ *U /Appdata/Roaming/PorgramChatApp//Porgram.exe
 res_3stdp=fa
 res_4stdp=fa 
-ads= 
+ads= free
